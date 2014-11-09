@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<clientConfig>
+    <Name>Timothy Tellman</Name>
+    <DownloadPath>C:/Users/Tim/Documents/workspace-sts-3.4.0.RELEASE/040814/CooksysShare/downloads</DownloadPath>
+    <HistoryPath>History</HistoryPath>
+    <ipAddresss>localhost</ipAddresss>
+    <ipAddress>192.168.20.101</ipAddress>
+    <ipAddress>192.168.20.102</ipAddress>
+    <ipAddress>192.168.20.103</ipAddress>
+    <ipAddress>192.168.20.104</ipAddress>
+    <ipAddress>192.168.20.108</ipAddress>
+    <ipAddress>192.168.20.111</ipAddress>
+    <ipAddress>192.168.20.113</ipAddress>
+    <ipAddress>192.168.20.116</ipAddress>
+    <ipAddress>192.168.20.121</ipAddress>
+    <ipAddress>192.168.20.124</ipAddress>
+    <LocalPath>SharedFiles</LocalPath>
+    <Port>2663</Port>
+</clientConfig>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<serverConfig>
+    <developer>Tiimothy Tellman</developer>
+    <port>2663</port>
+    <SharedPath>share</SharedPath>
+    <historyFileParth>SharedFiles/serveruploadHistory.xml</historyFileParth></serverConfig>

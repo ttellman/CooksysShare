@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clientConfig DownloadFolder="//downloads/" Port="2663" >
+<IPAddresses>
+<IPAddress ipAddress="192.168.20.101"/>
+<IPAddress ipAddress="192.168.20.102"/>
+<IPAddress ipAddress="192.168.20.103"/>
+<IPAddress ipAddress="192.168.20.104"/>
+<IPAddress ipAddress="192.168.20.108"/>
+<IPAddress ipAddress="192.168.20.111"/>
+<IPAddress ipAddress="192.168.20.113"/>
+<IPAddress ipAddress="192.168.20.116"/>
+<IPAddress ipAddress="192.168.20.121"/>
+<IPAddress ipAddress="192.168.20.124"/>
+<IPAddress ipAddress="localhost"/>
+</IPAddresses>
+	<SharedPath>C:/Users/Tim/Documents/workspace-sts-3.4.0.RELEASE/040814/CooksysShare/share</SharedPath></clientConfig>
